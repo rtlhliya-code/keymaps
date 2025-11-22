@@ -12,7 +12,7 @@ Fixes the slow gliding speed problem present in other keymaps plus adds controls
 - <kbd>Left Control</kbd> - Switch between running/walking if you have the setting enabled
 
 ### Combat
-- <kbd>Left Mouse</kbd> - Normal attack, hold for charged attack
+- <kbd>Left Mouse</kbd><kbd>K</kbd>- Normal attack, hold for charged attack
 - <kbd>Left Shift</kbd><kbd>Right Mouse</kbd> - Dodge, hold for sprint
 - <kbd>E</kbd> - Elemental skill
 - <kbd>Q</kbd> - Elemental burst
